@@ -35,13 +35,13 @@ import os.path
     
 import example9, example8, example1, example2, example3
 import example4, example5, example6, example7
-import _Allyson, _Andrew, _Brandon, _Cheyane, _Jacinta, _Jacob, _Johanes
+import _Allyson, _Andrew, _Brandon, _Cheyenne, _Jacinta, _Jacob, _Johannes
 import _Justin, _Kacie, _Lucas, _Rocky, _Trevor, _Zach
 
 
 
 modules = [example9,example8, example1, example2, example3, example4, example5, example6, example7,
-_Allyson, _Andrew, _Brandon, _Cheyane, _Jacinta, _Jacob, _Johanes,
+_Allyson, _Andrew, _Brandon, _Cheyenne, _Jacinta, _Jacob, _Johannes,
 _Justin, _Kacie, _Lucas, _Rocky, _Trevor, _Zach]
 
 for module in modules:
